@@ -50,16 +50,6 @@ Monitoring & Observability  ███████████████░░�
 ```
 
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Payal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=payalacharya&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=payalacharya&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117)
-
-</div>
-
 ---
 
 ### 🤝 Connect
